@@ -1,0 +1,15 @@
+{
+    "craft_wooden_sword_task": {
+        "minecraft:log": 8,
+        "minecraft:planks": 8,
+        "minecraft:stick": 0,
+        "minecraft:wooden_sword": 0
+    },
+    "craft_pogo_stick_task": {
+        "minecraft:log": 8,
+        "minecraft:planks": 8,
+        "minecraft:stick": 8,
+        "polycraft:sack_polyisoprene_pellets": 0,
+        "polycraft:tree_tap": 0
+    }
+}

@@ -21,16 +21,17 @@ python -m pip install -r requirements.txt
 ```
 planning/
 ```
-2. To generate new maps just run:
+2. To generate new maps (to dataset directory) just run:
 ```
 python constructor.py
-```
-3. Customize changes:
-```
-Change the map size in line 18
-Change the number of maps to generate in line 19
-Alter between the two tasks in line 20
-Change the starting item range in lines 25 and 29
+
+required options:
+  -h, --help      show this help message and exit
+  --map_size int  Size of the map (must be >= 6)
+  --num_maps int  Number of maps to generate
+  --task {0,1}    Task type: 0 for WoodenSword, 1 for PogoStick
+
+You can change the starting item range in the config.json file
 ```
 
 # Citations
