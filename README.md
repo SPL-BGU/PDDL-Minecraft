@@ -38,5 +38,10 @@ You can change the starting item range in the config.json file
 
 If you find our work interesting or the repo useful, please consider citing this paper:
 ```
-Coming Soon
+@article{benyaminsolving,
+  title={Solving Minecraft Tasks via Model Learning},
+  author={Benyamin, Yarin and Mordoch, Argaman and Shperberg, Shahaf and Stern, Roni},
+  booktitle={PRL Workshop Series - Bridging the Gap Between AI Planning and Reinforcement Learning},
+  year={2024}
+}
 ```
