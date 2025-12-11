@@ -36,18 +36,19 @@ You can change the starting item range in the config.json file
 
 # Citations
 
-If you find our work interesting or the repo useful, please consider citing this paper:
+If you find this repository useful or use it in your research, please consider citing the following paper:
 ```
-@misc{benyamin2025integratingreinforcementlearningaction,
-      title={Integrating Reinforcement Learning, Action Model Learning, and Numeric Planning for Tackling Complex Tasks}, 
-      author={Yarin Benyamin and Argaman Mordoch and Shahaf S. Shperberg and Roni Stern},
-      year={2025},
-      eprint={2502.13006},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2502.13006}, 
+@inproceedings{benyamin2024crafting,
+ title={Crafting a Pogo Stick in Minecraft with Heuristic Search},
+ author={Benyamin, Yarin and Mordoch, Argaman and Shperberg, Shahaf and Piotrowski, Wiktor and Stern, Roni},
+ booktitle={Proceedings of the International Symposium on Combinatorial Search},
+ volume={17},
+ pages={261--262},
+ year={2024}
 }
-
+```
+If you are using the basic (“counting”) version of the domain, please also cite:
+```
 @inproceedings{benyamin2023model,
   title={Model Learning to Solve Minecraft Tasks},
   author={Benyamin, Yarin and Mordoch, Argaman and Shperberg, Shahaf S and Stern, Roni},
